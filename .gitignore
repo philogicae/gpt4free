@@ -36,5 +36,16 @@ notes.txt
 close_issues.py
 xxx.py
 lab.py
+lab.js
+bing.py
+bing2.py
+.DS_Store
+lab/*
+lab
+tstt.py
+providerstest.py
+prv.py
 # Emacs crap
 *~
+x.js
+x.py
